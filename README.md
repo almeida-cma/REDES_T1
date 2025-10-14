@@ -7,4 +7,4 @@ https://www.apowersoft.com.br/gravador-de-tela-gratis
 
 Preencher formulário com seu nome e link da pasta do seu repositório:
 
-https://almeida-cma.github.io/receber/
+https://forms.gle/5CrFaZB6qjza95CN7
